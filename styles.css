@@ -16,3 +16,11 @@ h1 {
     width: 400px;
     border-radius: 15px;
 }
+img {
+    border: 3px solid pink;
+    border-radius: 20px;
+}
+.image {
+    display: flex;
+    justify-content: space-around;
+}
