@@ -8,16 +8,17 @@ h1 {
 
 .text {
     border: 2px solid red;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     color: brown;
     margin: 15px;
     padding: 5px;
     width: 400px;
     border-radius: 15px;
+    font-weight: 50px;
 }
 img {
-    border: 3px solid pink;
+    border: 3px solid red;
     border-radius: 20px;
 }
 .image {
